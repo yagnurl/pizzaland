@@ -10,3 +10,6 @@ pizzaland is a landing page with beautiful UI design created with HTML, CSS and 
 ------------
 
 ![preview](https://github.com/yagnurl/pizzaland/blob/main/pizzaland.png "preview")
+
+------------
+*owner of the design is Yağnur Tetikcan*
