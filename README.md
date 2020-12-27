@@ -1,5 +1,5 @@
 # pizzaland
-pizzaland is a landing page with beautiful UI design made with HTML, CSS and Javascript.
+pizzaland is a landing page with beautiful UI design created with HTML, CSS and Javascript.
 ###### pizzaland landing page contains:
 - a minimal navbar with CSS
 - a content with a slogan, description text and button.
