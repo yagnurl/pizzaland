@@ -5,7 +5,7 @@ pizzaland is a landing page with beautiful UI design created with HTML, CSS and 
 - a content with a slogan, description text and button.
 - a dynamic pizza image that can change according to choices on the bottom of the page (with JS)
 - socail media icons/links
--
+
 
 ------------
 
