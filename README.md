@@ -1,4 +1,7 @@
 # pizzaland
+
+[https://pizzaland-landingpage.netlify.app/](https://pizzaland-landingpage.netlify.app/ "https://pizzaland-landingpage.netlify.app/")
+
 pizzaland is a landing page with beautiful UI design created with HTML, CSS and Javascript.
 ###### pizzaland landing page contains:
 - a minimal navbar with CSS
